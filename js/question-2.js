@@ -1,14 +1,5 @@
 // Module Assignment 3//
 
-//Question 1:
-
-const getRemainder = (a, b) => {return a % b}
-
-const result = getRemainder(5, 3);
-
-console.log(result);
-
-
 //Question 2:
 
 const url = "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=58bb5229ecf74ba785d2658b3c7c0171";
